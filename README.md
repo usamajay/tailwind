@@ -1,5 +1,5 @@
 # React + Vite
-
+This is a "Host your Website" Project made using react + Vite using tailwind css.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
